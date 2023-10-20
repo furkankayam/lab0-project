@@ -14,3 +14,8 @@ spring:
         format_sql: true
         show_sql: true
     database: postgresql
+
+# Open API
+springdoc:
+  swagger-ui:
+    path: /swagger-ui.html
