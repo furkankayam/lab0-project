@@ -19,6 +19,7 @@ fun UserRequest.toUser(): User {
         lastName = this.lastName,
         phoneNumber = this.phoneNumber,
         password = this.password,
+        email = this.email,
         address = this.address
     )
 }
