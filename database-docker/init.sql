@@ -1,0 +1,2 @@
+/*CREATE DATABASE IF NOT EXISTS tb_user_tb;*/
+CREATE DATABASE tb_user;
